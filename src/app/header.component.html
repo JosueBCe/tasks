@@ -1,0 +1,37 @@
+<nav class="navbar navbar-default">
+    <div>
+
+      <a href="#" class="navbar-brand">Tasketo</a>
+
+    </div>
+    <div class="container-fluid">
+
+
+      <div class="collapse navbar-collapse">
+
+        <div class="navbar-header">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown" appDropdown>
+              <a  class="dropdown-toggle" role="button">Menu <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li routerLink="/documents" routerLinkActive="active"><a>Projects</a></li>
+                <li routerLink="/messages"  routerLinkActive="active"><a>Messages</a></li>
+                <li routerLink="/contacts" routerLinkActive="active" ><a>Tasks</a></li>
+              </ul>
+            </li>
+          </ul>
+
+        </div>
+      <!--   <ul class="nav navbar-nav navbar-right">
+          <li class="dropdown" appDropdown>
+            <a  class="dropdown-toggle" role="button">User <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a>Login</a></li>
+              <li><a>Other</a></li>
+              <li><a>Logout</a></li>
+            </ul>
+          </li>
+        </ul> -->
+      </div>
+    </div>
+  </nav>

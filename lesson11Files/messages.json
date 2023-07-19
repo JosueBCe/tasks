@@ -1,0 +1,125 @@
+[{
+  "_id": {
+    "$oid": "649a3868706febfa76b1d084"
+  },
+  "id": "1",
+  "subject": "CIT 366 assignment 1",
+  "msgText": "The grades for this assignment have been posted.",
+  "sender": "7"
+},
+{
+  "_id": {
+    "$oid": "649a3868706febfa76b1d085"
+  },
+  "id": "2",
+  "subject": "CIT 366 assignment 3",
+  "msgText": "When is assignment 3 due?",
+  "sender": "13"
+},
+{
+  "_id": {
+    "$oid": "649a3868706febfa76b1d086"
+  },
+  "id": "3",
+  "subject": "CIT 366 assignment 3 due date",
+  "msgText": "Assignment 3 is due on Saturday at 11:30 PM.",
+  "sender": "7"
+},
+{
+  "_id": {
+    "$oid": "649a3868706febfa76b1d087"
+  },
+  "id": "7",
+  "subject": "Assignment 3 help",
+  "msgText": "Can I meet with you sometime? I need help with assignment 3.",
+  "sender": "3"
+},
+{
+  "_id": {
+    "$oid": "649a3868706febfa76b1d088"
+  },
+  "id": "5",
+  "subject": "Assignment 3 help",
+  "msgText": "I can meet with you today at 4:00 PM in my office.",
+  "sender": "7"
+},
+{
+  "_id": {
+    "$oid": "64a9fb9b13d81e80655d77fa"
+  },
+  "id": "142",
+  "subject": "This is kinda working ",
+  "msgText": "Vistum Web (Web Design) ",
+  "sender": "128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a9fbca9b5b3a91a18d1c35"
+  },
+  "id": "143",
+  "subject": "Vistum Web (Web Design) ",
+  "msgText": "Vistum Web (Web Design) ",
+  "sender": "128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a9fcd09b5b3a91a18d1c4e"
+  },
+  "id": "144",
+  "subject": "Finally working",
+  "msgText": "Finally working",
+  "sender": "128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a9fd2e29bbc819757ea2f8"
+  },
+  "id": "145",
+  "subject": "BEN",
+  "msgText": "vistumweb.com",
+  "sender": "128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64aa03ee29bbc819757ea45b"
+  },
+  "id": "146",
+  "subject": "Vistum Web (Web Design) ",
+  "msgText": "Vistum Web (Web Design) ",
+  "sender": "128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64aa042529bbc819757ea46b"
+  },
+  "id": "147",
+  "subject": "Meeting for team activity ",
+  "msgText": "This is kinda working ",
+  "sender": "128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64aa04d429bbc819757ea4d8"
+  },
+  "id": "148",
+  "subject": "Vistum Web-Design",
+  "msgText": "It's about practicing, results are part of it!",
+  "sender": "128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64aa08aa29bbc819757ea51f"
+  },
+  "id": "149",
+  "subject": "Vistum Web (Web Design) ",
+  "msgText": "Vistum Web (Web Design) ",
+  "sender": "128",
+  "__v": 0
+}]

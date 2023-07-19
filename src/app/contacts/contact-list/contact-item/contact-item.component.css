@@ -1,0 +1,3 @@
+.completed-image {
+  filter: grayscale(100%); /* Apply a 100% grayscale filter to the image */
+}

@@ -1,0 +1,24 @@
+.contact-list-header {
+  border: 1px solid #ccc;
+  border-bottom: none;
+  background-color: #eee;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  align-items: center;
+  display: flex;
+}
+
+.contact-list-container {
+  padding: 1rem 0;
+  border: 1px solid #ccc;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.btn-success {
+  background: #002f5e;
+  border: solid 1px #0061c2;
+}
+
+h3[completedDropdown] {
+  cursor: pointer;
+}

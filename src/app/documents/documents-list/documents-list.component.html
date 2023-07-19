@@ -1,0 +1,18 @@
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <div class="row pad-left-right">
+      <span class="pull-left title">Projects</span>
+      <a class="btn btn-success pull-right" [routerLink]="['new']">Add Project</a>
+    </div>
+  </div>
+  <div class="panel-body">
+    <div class="center-panel">
+      <cms-documents-item
+      *ngFor="let document of documents;"
+      [document]="document"
+      [index]="document.id"
+      ></cms-documents-item>
+    </div>
+  </div>
+
+</div>

@@ -1,0 +1,93 @@
+steps to run program:
+in CMD
+run mongod
+run mongosh
+
+in project folderp
+run server
+run frontend
+
+
+Preparing project tasks:
+ - contact service connected to MongoDb => CRUD ✅
+    - contact detail saving front end => image and group of contacts\\ backend working ✅
+    - creating new contact frontend too ✅
+    - selecting new contact front end. ✅
+
+ - fix nav between pages ✅
+ - fix add new subcontacts:
+    - ability to add group of contacts✅
+    - and display them before editing ✅
+    - consider connecting with MongoDb and do the observable staff that happen in the docum-ents ✅
+ - fix image path ✅
+
+nice
+
+
+
+
+
+============ Content Management System - Final Project ========================
+contacts -> Tasks and Subtasks
+documents -> Client's projects
+messages -> chatting and able to switch in the form for who is submitting
+
+
+CONTINUE FROM HERE: ADD A METHOD IN CONTACT SERVICE TO GET THE NUMBER
+OF COMPLETED TASKS AND WORK syncrounsly WITH ANGULAR TU DISPLAY
+
+idea: CHANGE DELETE FUNCTIONALITY TO COMPLETE
+(DELETE BUTTON NOW IS IN THE COMPLETED TASKS LIST AND IT WILL BE TO DELETE PERMANENTLY )
+TO PASS FROM ONE LIST TO A HIDDEN LIST OF
+- pass from a list to other boolean ngif
+- restore and delete permanently button
+  - (contact detail with different color )
+- drop down functionality
+
+
+steps:
+- create second list ngif completed
+- add new caractheristic to the tasks = contacts => boolean => completed true or false
+- method to update true or false
+- detail component different (color, and button "delete permanently"=> service delete service, with
+crossed line in the texts or something like that)
+- add total number of completed tasks
+- drop down functionality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tasks:
+- ability to add coments to tasks and assigned
+
+
+- Styling: dark blue classic professional✅
+
+- add video or something cool functionality
+- add functionality to which user is posting the message (message page)
+- change names forms, titles
+
+Extras if time:
+- label that connect to the project in the client's projects board
+-
+
+ideas to implement:
+-> able to add in the tasks what project is working
+-> able to add a date in tasks
+-> thread in messages to say what they are talking about ( a banner or something similar to show that started a new thread)
+
+
+
+password : task_management_app

@@ -1,0 +1,60 @@
+/* Set the background color of the navbar to dark gray */
+.navbar-default {
+  background-color: #1f1f1f;
+  color: #fff;
+}
+
+/* Set the color of the navbar links to white */
+.navbar-default .navbar-nav > li > a {
+  color: #0f4479;
+text-align: center;
+}
+
+/* Set the hover color of the navbar links to dark blue */
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #1E90FF;
+  background-color: transparent;
+}
+
+/* Set the color of the active navbar link to dark blue */
+.navbar-default .navbar-nav > li.active > a,
+.navbar-default .navbar-nav > li.active > a:hover,
+.navbar-default .navbar-nav > li.active > a:focus {
+  color: #1E90FF;
+  background-color: transparent;
+}
+
+/* Set the color of the dropdown menu items to black */
+.navbar-default .dropdown-menu > li > a {
+  color: #000;
+  border: solid .5px rgb(39, 39, 39);
+  border-radius: .3rem;
+  text-align: center;
+}
+.navbar-default .dropdown-menu > li:focus {
+  color: white;
+  background-color: #003972;
+}
+/* Set the background color and color of the active dropdown menu item */
+.navbar-default .dropdown-menu > li:hover {
+  color: #fff;
+  background-color: #00478f;
+}
+
+/* Set the hover color of the dropdown menu items to white */
+.navbar-default .dropdown-menu > li > a:hover {
+  color: white;
+  background-color: #003972;
+}
+
+/* Set the text color of the dropdown menu header to white */
+.navbar-default .dropdown-header {
+  color: #fff;
+}
+
+/* Ensure the menu is always visible when the screen is wide enough */
+.navbar-collapse.collapse {
+  display: block !important;
+  background-color: #fff;
+}
